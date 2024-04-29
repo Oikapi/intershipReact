@@ -1,0 +1,25 @@
+.genresList {
+    overflow-x: hidden;
+    display: flex;
+}
+
+.genresEach {
+    color: white;
+    background-color: black;
+    min-width: 288px;
+    height: 288px;
+    margin-right: 112px;
+    border-radius: 15px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+}
+
+.genresEach p {
+    font-size: 32px;
+    margin: 0px 0px 14px 20px;
+}
+
+.genresHeader h1 {
+    margin-bottom: 59px;
+}

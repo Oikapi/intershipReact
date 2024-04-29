@@ -1,0 +1,54 @@
+.popularNow {
+    margin-top: 102px;
+}
+
+.popularHeader h1 {
+    margin-bottom: 59px;
+}
+
+.popularEach {
+    display: flex;
+    margin-bottom: 25px;
+}
+
+.popularEachMainInfo {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 33px;
+}
+
+.popularEachShort {
+    max-width: 700px;
+    min-width: 600px;
+    padding: 90px 30px;
+    margin-left: 90px;
+    border: 2px solid black;
+    border-radius: 25px;
+    box-sizing: border-box;
+    font-size: 24px;
+}
+
+.popularEachShort p {
+    /* max-width: 314px; */
+}
+
+.popularEachScore {
+    margin-left: 90px;
+}
+
+.popularEachScore h3 {
+    font-size: 48px;
+    color: #4437DE;
+    font-weight: bold;
+}
+
+.popularEachMainInfo h3 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.popularEachMainInfo p {
+    font-size: 24px;
+    color: #797979;
+}

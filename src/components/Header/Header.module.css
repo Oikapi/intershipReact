@@ -1,0 +1,12 @@
+.mainHeader {
+    display: flex;
+}
+
+.headerContainer {
+    padding: 30px 100px;
+    display: flex;
+}
+
+.headerContainer h2 {
+    margin-right: 62px;
+}
