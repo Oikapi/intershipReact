@@ -14,7 +14,11 @@ export const router = createBrowserRouter([
                 element: <MainPage />
             },
             {
-                path: "/1",
+                path: "/details/:id",
+                element: <MoviePage />
+            },
+            {
+                path: "/search",
                 element: <MoviePage />
             }
         ]
