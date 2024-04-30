@@ -1,0 +1,14 @@
+.movieTitle {
+    padding: 200px 0px 20px 100px;
+    margin-left: -100px;
+}
+
+.movieTitle h1 {
+    color: white;
+    font-size: 56px;
+    font-weight: bold;
+}
+
+.movieTitle p {
+    color: white;
+}

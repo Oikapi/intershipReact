@@ -1,0 +1,50 @@
+.movieInfo {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+.movieInfoLeft p {
+    font-size: 24px;
+}
+
+.movieInfoIconsPanel {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.movieInfoIcon {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+
+.movieInfoMainInfo {
+    margin-top: 30px;
+}
+
+.movieInfoRating {
+    margin-top: 50px;
+}
+
+.movieInfoRating h3 {
+    font-weight: bold;
+}
+
+.movieInfoIcon img {
+    margin-right: 25px;
+}
+
+
+
+.movieInfoLeft {
+    /* width: 50%; */
+    max-width: 768px;
+}
+
+.movieInfoRight {
+    margin-left: 100px;
+    /* width: 50%; */
+}
